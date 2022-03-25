@@ -6,7 +6,6 @@ Astralnalog,POST,www.astralnalog.ru,80,{rand}
 Belarus.By,POST,www.belarus.by,443,{rand}
 Belarus24.By,POST,belarus24.by,443,{rand}
 Belinfonalog,POST,www.belinfonalog.ru,80,{rand}
-Belmarket,POST,belmarket.by,443,{rand}
 Belnovosti.By,POST,www.belnovosti.by,443,{rand}
 Belta,POST,www.belta.by,443,{rand}
 Bonkypay.Com,POST,bonkypay.com,443,{rand}
@@ -103,3 +102,4 @@ star-pro.ru,POST,star-pro.ru,443,{rand}
 region.ru,POST,region.ru,443,{rand}
 ul.su,POST,ul.su,443,{rand}
 gruzovozkin.pro,POST,gruzovozkin.pro,443,{rand}
+ddosguard,POST,185.178.208.151,443,{rand}
