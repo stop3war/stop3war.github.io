@@ -1,4 +1,5 @@
 title,method,host,port,path
+tildacdn.com,POST,tildacdn.com,443,{rand}
 cse-rus.ru,POST,www.cse-rus.ru,443,{rand}
 024.by,POST,www.024.by,443,{rand}
 24ecp,POST,www.24ecp.ru,80,{rand}
