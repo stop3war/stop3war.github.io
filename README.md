@@ -1,10 +1,10 @@
 # Stop War Now - The Digital way
 
-<a href="https://stop3warnow.github.io/">
+<a href="https://stop3war.github.io/">
 <img src="doc/banner.png" width="435">
 </a>
 
-URL: https://stop3warnow.github.io/
+URL: https://stop3war.github.io/
 
 ## What is this?
 
