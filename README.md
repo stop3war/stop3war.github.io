@@ -1,10 +1,10 @@
 # Stop War Now - The Digital way
 
-<a href="https://stopwarnow.github.io/">
+<a href="https://stop3war.github.io/">
 <img src="doc/banner.png" width="435">
 </a>
 
-URL: https://stopwarnow.github.io/
+URL: https://stop3war.github.io/
 
 ## What is this?
 
@@ -40,5 +40,3 @@ A: Fork, then Submit a pull request with your new target added to `attacklist.cs
 
 ### Q: Do you collect / sell / share any data?
 A: No, we do not know who you are using our tool and we do not share it with any 3rd party.
-We do use a tool called [Microsoft Clarity](https://clarity.microsoft.com/) configured with Privacy mode (no Cookie - GDPR compliance) so that we can understand basic stats such as how many people visits the page, all in aggregated mode.
-

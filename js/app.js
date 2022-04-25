@@ -63,7 +63,7 @@
   mbInputChange()
 
   window.getTargets = function (cb) {
-    fetch("/stopwar/attacklist.csv").then((res) => {
+    fetch("/attacklist.csv").then((res) => {
       let id = 0;
       res.text().then((list) => {
         var targets = list
